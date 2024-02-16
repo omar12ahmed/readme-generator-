@@ -2,6 +2,12 @@
 function generateMarkdown(data) {
   return `
   # ${data.title}
+
+  ## Process
+
+  ### Technologies Used:
+  
+  ${licenseBadge}
   
   ## Description
   
@@ -40,6 +46,11 @@ ${data.tests}
 For any questions, you can reach me on ${data.email} or visit my [Github profile](https://github.com/${data.github}).
 
 `;
+}
+
+function generateLicenseBadge(license) {
+  const badgeURL = `https://img.shields.io/badge/license-${encodeURIComponent(license)}-green`;
+  return `![License Badge](${badgeURL})`;
 }
 
 module.exports = generateMarkdown;

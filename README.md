@@ -15,6 +15,26 @@
   - [Repository](#repository)
   - [Questions](#question)
 
+  ## Process
+
+### Technologies Used:
+
+
+
+* [![ECMAScript 2015](https://img.shields.io/badge/ECMAScript-2015-yellow)](https://www.ecma-international.org/ecma-262/6.0/)
+
+* [![React Version](https://img.shields.io/badge/React-17-blue.svg)](https://reactjs.org/)
+
+* [![Node.js Version](https://img.shields.io/badge/Node.js-14-green)](https://nodejs.org/)
+
+* ![npm](https://img.shields.io/npm/v/package-name)
+
+* ![Node.js File System (fs) Module](https://img.shields.io/badge/Node.js-FS-blue)
+
+* ![Inquirer](https://img.shields.io/npm/v/inquirer)
+* [![Vite](https://img.shields.io/badge/Vite-2.7.15-blue)](https://vitejs.dev/)
+
+
   ## Installation
 
   clone the repository from github and run npm install
@@ -48,7 +68,7 @@ A link to the Repository [GitHub](https://github.com/omar12ahmed/readme-generato
 
 ## Questions
 
-For any questions, please contact omar12ahmed@hotmail.com
+For any questions, please contact omar12ahmed@hotmail.com or visit my [Github profile](https://github.com/omar12ahmed)
 
   
 
